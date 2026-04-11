@@ -1,0 +1,5 @@
+Extensão Dev e Git
+
+IDE - É um editor de texto, que vem com todas as propriedades, funcionalidades e atributos para auxiliar no desenvolvimento de sistemas.
+
+Github - É uma central de repositorios online, onde você pode postar seus projetos e ter acesso a todas as versões postadas dele, sendo o github também um controle de versionamento de códigos e projetos através do Git.
